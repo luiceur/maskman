@@ -23,4 +23,5 @@ Use it if you:
 ## Changelog
 
 See the [CHANGELOG.md](CHANGELOG.md) for a list of changes.
+Luis Cebamanos
 
